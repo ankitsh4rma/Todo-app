@@ -1,0 +1,30 @@
+# Node modules and lock file
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+*.code-workspace
+
+# Build and distribution
+dist/
+build/
+out/
+
+# Coverage reports
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
